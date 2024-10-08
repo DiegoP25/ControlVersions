@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 	        System.out.println("Hello World Modified");
                 System.out.println("Diego");	
+					System.out.println("Cambio local y subirlo al repositorio remoto");
 	}
 
 }
