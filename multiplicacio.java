@@ -1,12 +1,10 @@
-	
 
-	public class multiplicacio {
 
-	public static void main(String[] args) {
-	
-		
-		int a=3;
-		int b=5;
-	System.out.print(a + b);
+		public class multiplicacio.java {
+    		public static void main(String[] args) {
+     		         int a = 5;
+       	                 int b = 3;
+        System.out.println("El producto es: " + (a * b));
+    }
+}
 
-	}}
