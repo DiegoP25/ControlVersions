@@ -7,6 +7,6 @@
 		
 		int a=3;
 		int b=5;
-	System.out.print(a * b);
+	System.out.print(a + b);
 
 	}}
